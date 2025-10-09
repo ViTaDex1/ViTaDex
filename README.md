@@ -15,27 +15,35 @@ VTDexM
    ├─Banana
    │  ├─6D_pose
    │  │  └─0.npy
+   │  │  └─...
    │  ├─depth
    │  │  └─0.png
+   │  │  └─...
    │  └─rgb
    │  │  └─0.png
+   │  │  └─...
    │  └─tactile
    │  │  └─index
    │  │  │  └─0.txt
+   │  │  │  └─...
    │  │  └─middle
    │  │  │  └─0.txt
+   │  │  │  └─...
    │  │  └─palm
    │  │  │  └─0.txt
+   │  │  │  └─...
    │  │  └─pinky
    │  │  │  └─0.txt
+   │  │  │  └─...
    │  │  └─ring
    │  │  │  └─0.txt
+   │  │  │  └─...
    │  │  └─thumb
    │  │  │  └─0.txt
+   │  │  │  └─...
    ├─zobject_model
    │  ├─banana
-   │  
-   ├─other_files
+   │  ├─...
    ```
 
 

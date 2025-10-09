@@ -10,6 +10,7 @@ Download training model: [model](https://drive.google.com/file/d/13FrZcWP7Ic8xJn
 
 
 ## VTDexM Dataset format
+```
 VTDexM
    ├─Banana
    │  ├─6D_pose

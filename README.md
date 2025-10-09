@@ -12,19 +12,33 @@ Download training model: [model](https://drive.google.com/file/d/13FrZcWP7Ic8xJn
 ## VTDexM Dataset format
 
 - Banana
+- 
   -- 6D_pose
+  
   -- depth
+  
   -- rgb
+  
   -- tactile
+  
     --- index
+  
     --- middle
+  
     --- palm
+  
     --- pinky
+  
     --- ring
+  
     --- thumb
+  
 -....
+
 - zobject_model
+ 
   -- banana
+  
   -- ...
 
 
